@@ -1,2 +1,1 @@
-print("ET0735 — DevOps")
-# this is a comment
+print("ET0735 — DevOps for AIoT")
